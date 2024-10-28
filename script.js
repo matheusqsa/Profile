@@ -10,7 +10,7 @@ function toggleMode() {
     // // se tiver light toggleMode, adicionar a imagem light
          img.setAttribute('src', 'assets/eu-mesmo-crop.png')
       } else {
-         img.setAttribute('src','assets/eu-dark.png')
+         img.setAttribute('src','assets/eu-dark-border.png')
     // // se tiver sem light toggleMode, manter a imagem normal
 
       }
