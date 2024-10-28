@@ -8,9 +8,9 @@ function toggleMode() {
     // //substituir a imagem
       if(html.classList.contains('light')){
     // // se tiver light toggleMode, adicionar a imagem light
-         img.setAttribute('src', 'assets/eu-light.png')
+         img.setAttribute('src', 'assets/eu-mesmo-crop.png')
       } else {
-         img.setAttribute('src','assets/eu-mesmo-crop.png')
+         img.setAttribute('src','assets/eu-dark.png')
     // // se tiver sem light toggleMode, manter a imagem normal
 
       }
